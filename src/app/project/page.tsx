@@ -6,7 +6,7 @@ export default function ProjectPage() {
 
   return (
     <div className="text-center font-bold text-black">
-      <h1> {name}의 프로젝트</h1>
+      <h1 className="text-lg"> {name}의 프로젝트</h1>
       <ul>
         <li>
           <Link href="/project/demo">HCJ Demo</Link>
