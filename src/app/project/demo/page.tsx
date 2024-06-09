@@ -5,7 +5,8 @@ export default function HCJDemoProject() {
 
   return (
     <div>
-      <h1> {name}의 프로젝트 - HCJ DEMO</h1>
+      <h1> {name}의 프로젝트 - DEMO (HCJ)</h1>
+      <a href="https://hc-jdemo.vercel.app/">HCJ DEMO</a>
     </div>
   )
 }
